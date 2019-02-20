@@ -17,3 +17,11 @@
 综上，有付费墙的内容服务（比如华尔街日报，端传媒），待阅服务无法支持，浏览器插件仍然有不可替代的空间，如果找不到合适Firefox空间的方案，我打算自己实现一个。
 
 p2k在GitHub上开源了他们的实现方案，可以在家里的路由器上搭一个，实现 pocket 文章的实时转发。
+
+## 相关链接
+* [Kindle公众号转发配置](https://www.amazon.cn/gp/splinter/kol/3599248b-5f86-4f5d-b24c-3db334d801ff%3Fie%3DUTF8%26app-action%3Dwebview%26url%3Dhttps%253A%252F%252Fwww.amazon.cn%252Fgp%252Fsplinter%252Fkol%252F3599248b-5f86-4f5d-b24c-3db334d801ff)
+* [p2k](https://p2k.co/)
+* [push 2 kindle](https://fivefilters.org/kindle-it/)
+* [instapaper](https://www.instapaper.com/user)
+* [send to kindle](https://chrome.google.com/webstore/detail/send-to-kindle-for-google/cgdjpilhipecahhcilnafpblkieebhea)
+* [mercury reader](https://chrome.google.com/webstore/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi)
